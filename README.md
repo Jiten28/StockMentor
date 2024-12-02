@@ -20,3 +20,12 @@ Portfolio management tools
 Sentiment analysis
 Social features for user collaboration
 
+## Libraries
+pandas_datareader--->pip install pandas_datareader 
+scikit-learn---->pip install scikit-learn
+(MinMaxScaler)--->  from sklearn.preprocessing import MinMaxScaler
+numpy---->pip install numpy
+math(for data manipulation and calculation)
+mean_squared_error---->from sklearn.metrics import mean_squared_error
+matplotlib.pyplot--->pip install matplotlib
+tensorflow--->pip install tensorflow
