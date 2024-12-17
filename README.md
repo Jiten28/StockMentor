@@ -22,6 +22,9 @@ StockMentor simplifies stock market analysis for investors, especially beginners
 - **Sentiment Analysis**: Integrate social media or news sentiment analysis to predict stock trends based on public opinion or news.
 - **Social Features**: Enable collaboration, so users can share their watchlists, predictions, and tips with each other.
 
+### **Python Version**
+- Python 3.11.9 or higher.
+  
 ### Steps to Start the Project:
 1. **Data Collection**: Use `pandas_datareader` to fetch stock market data.
 2. **Preprocessing**: Scale data using `MinMaxScaler` for input into the LSTM model.
