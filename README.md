@@ -1,6 +1,6 @@
 # StockMentor
 Empowering Investors with AI-Driven Stock Market Insights
-ghsggaagfgagfg
+ghsggaagfgagfgagfd
 ## Overview
 StockMentor simplifies stock market analysis for investors, especially beginners, by providing:
 
