@@ -40,7 +40,7 @@ Here are the **installation commands** and the **use** of each module for your *
    ```bash
    pip install pandas_datareader
    ```
-- **Use**: To fetch real-time stock data from financial data sources like Yahoo Finance.
+- **Use**: To fetch real-time stock data from financial data sources (Tingo).
    ```python
    import pandas_datareader as pdr
    ```
